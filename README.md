@@ -1,26 +1,4 @@
-# client
+# PPOB frontend application
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Ini adalah aplikasi menggunakan VueJS untuk kebutuhan frontend dari pembayaran online, masih dalam tahap development dan untuk pembelajaran di salah satu kelas di https://dusunweb.com
+Nantinya aplikasi ini akan terkoneksi dengan payment gateway dari IndoH2H
